@@ -27,8 +27,7 @@ Certifique-se de ter instalado:
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sua-loja.git
-cd sua-loja
+git clone git remote add origin https://github.com/piovesani/ecommerce_frontend.git
 
 ## Getting Started
 
